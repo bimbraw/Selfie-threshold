@@ -1,3 +1,3 @@
-# Selfie_threshold
+# Selfie threshold
 
 Repository for binarization of a selfie.
